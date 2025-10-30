@@ -8,10 +8,8 @@ Este repositório reúne os arquivos, dados e scripts utilizados durante a Inici
 
 ## Estrutura do Repositório
 
-* `data/` — arquivos de entrada e saída das simulações
-* `scripts/` — códigos utilizados para processamento e análise dos dados
-* `results/` — gráficos, espectros e tabelas obtidos nas análises
-* `docs/` — relatórios e anotações do projeto
+* `espresso/` — arquivos de entrada e saída das simulações, do software Quantum ESPRESSO, para obter as energias. Esses dados, futuramente, foram usadas no cálculo dos $\Delta G$s.
+* `fdmnes/` — arquivos de entrada e saída das simulações, do software FDMNES, para obter as curvas de abosrção de raios-X próximos a borda de absorção (XANES)
 
 ## Observação
 
