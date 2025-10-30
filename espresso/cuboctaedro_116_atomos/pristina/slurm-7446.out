@@ -1,0 +1,19 @@
+ 
+:: initializing oneAPI environment ...
+   slurm_script: BASH_VERSION = 5.1.8(1)-release
+   args: Using "$@" for setvars.sh arguments: 
+:: ccl -- latest
+:: clck -- latest
+:: compiler -- latest
+:: dal -- latest
+:: debugger -- latest
+:: dev-utilities -- latest
+:: dpcpp-ct -- latest
+:: dpl -- latest
+:: ipp -- latest
+:: ippcp -- latest
+:: mkl -- latest
+:: mpi -- latest
+:: tbb -- latest
+:: oneAPI environment initialized ::
+ 
