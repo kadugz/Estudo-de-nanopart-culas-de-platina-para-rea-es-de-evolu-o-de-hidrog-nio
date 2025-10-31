@@ -4,7 +4,7 @@
 
 **Orientador:** Prof. James Moraes de Almeida (ILUM/CNPEM)
 
-**Período:** 2024–2025
+**Período:** 01/11/2024 a 31/10/2025
 
 Este repositório reúne os arquivos relevantes, dados e scripts utilizados durante a Iniciação Científica financiada pela FAPESP de processo: 2024/17010-3 vinculado a: 2023/09820-2. O projeto envolve o uso de métodos de **Teoria do Funcional da Densidade (DFT)** e simulações **XANES** para o estudo de propriedades eletrônicas e estruturais de sistemas metálicos com potencial aplicação catalítica. A maioria desses códigos geram centenas de arquivos por pasta, mas apenas os arquivos utilizados de output foram adicionados para facilitar a reprodutibilidade do projeto.
 
